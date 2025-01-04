@@ -3,7 +3,7 @@ Workshop Machine Learning - Pertemuan 10
 1. Clustering menggunakan Fuzzy C-means
 2. Klasifikasi menggunakan K-NN
 
-** Tool ** :
+**Tool** :  
 ![Jupyter](https://img.shields.io/badge/Jupyter-FF7700?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
