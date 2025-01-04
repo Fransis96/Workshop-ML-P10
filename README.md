@@ -4,7 +4,7 @@ Workshop Machine Learning - Pertemuan 10
 2. Klasifikasi menggunakan K-NN
 
 **Tool** :  
-![Jupyter](https://img.shields.io/badge/Jupyter-FF7700?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-c6c6c6-FFFFFF?style=for-the-badge&logo=jupyter&logoColor=ff7a00)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 
