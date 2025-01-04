@@ -12,3 +12,7 @@ Workshop Machine Learning - Pertemuan 10
 - [Jupyter](https://jupyter.org/)
 - [TensorFlow](https://www.tensorflow.org/)
 - [Apache Spark](https://spark.apache.org/)
+
+
+#### Keamanan
+Proyek ini adalah bagian dari praktikum workshop machine learning di UTDI. Jika menemukan masalah keamanan, bisa melaporkannya melalui [email](mailto:youremail@example.com).
