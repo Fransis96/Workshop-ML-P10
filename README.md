@@ -12,3 +12,4 @@ Workshop Machine Learning - Pertemuan 10
 
 - [Jupyter](https://jupyter.org/)
 - [TensorFlow](https://www.tensorflow.org/)
+- [Apache Spark](https://spark.apache.org/)
